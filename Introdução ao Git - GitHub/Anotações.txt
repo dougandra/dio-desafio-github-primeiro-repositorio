@@ -1,0 +1,6 @@
+Git e Github são utilizados no dia a dia das pessoas que criam software por um motivo bem simples: 
+ter uma forma fácil de gerenciar o código fonte da aplicação, do sistema, do produto.
+
+Em um time pequeno, algumas pessoas ainda tentam tomar conta desses arquivos de maneiras um tanto questionáveis:
+compartilhar diretórios na rede, utilizar ferramentas como Dropbox, ou manter tudo em um servidor de FTP. 
+Práticas totalmente desaconselhadas.
